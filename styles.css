@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #464545 ;
+}
+
+canvas{
+    margin:0 1% 0 1%;
+    background-color: aliceblue;
+}
+
+h1{
+    margin-left:1%;
+    color:chartreuse;
+}
+
+#clr:hover{
+    cursor: pointer;
+    color: chartreuse;
+    background-color: black;
+}
+
+button{
+    display: block;
+    margin-left:1%;
+}
+
+
+
